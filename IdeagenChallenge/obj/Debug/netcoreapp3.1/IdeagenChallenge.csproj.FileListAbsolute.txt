@@ -1,0 +1,22 @@
+D:\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.exe
+D:\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.deps.json
+D:\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.runtimeconfig.json
+D:\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.runtimeconfig.dev.json
+D:\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.dll
+D:\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.pdb
+D:\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.csprojAssemblyReference.cache
+D:\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.AssemblyInfoInputs.cache
+D:\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.AssemblyInfo.cs
+D:\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.dll
+D:\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.pdb
+J:\GGIT backup 20190509\D\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.exe
+J:\GGIT backup 20190509\D\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.deps.json
+J:\GGIT backup 20190509\D\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.runtimeconfig.json
+J:\GGIT backup 20190509\D\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.runtimeconfig.dev.json
+J:\GGIT backup 20190509\D\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.dll
+J:\GGIT backup 20190509\D\IdeagenChallenge\bin\Debug\netcoreapp3.1\IdeagenChallenge.pdb
+J:\GGIT backup 20190509\D\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.csprojAssemblyReference.cache
+J:\GGIT backup 20190509\D\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.AssemblyInfoInputs.cache
+J:\GGIT backup 20190509\D\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.AssemblyInfo.cs
+J:\GGIT backup 20190509\D\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.dll
+J:\GGIT backup 20190509\D\IdeagenChallenge\obj\Debug\netcoreapp3.1\IdeagenChallenge.pdb
